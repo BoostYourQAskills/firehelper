@@ -1,26 +1,25 @@
 {
-    "name": "firehelper",
-    "version": "1.0.0",
-    "description": "A Node.js package designed for software testing, enabling the deletion of documents in Firestore based on flexible queries.",
-    "main": "src/index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/RocketskillsHQ/firehelper.git"
-    },
-    "keywords": [
-      "firebase",
-      "firestore",
-      "delete",
-      "flexible",
-      "queries"
-    ],
-    "author": "Fernando Papito",
-    "license": "MIT",
-    "dependencies": {
-      "firebase-admin": "^9.8.0"
-    }
+  "name": "firehelper",
+  "version": "1.0.0",
+  "description": "A Node.js package designed for software testing, enabling the deletion of documents in Firestore based on flexible queries.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RocketskillsHQ/firehelper.git"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "delete",
+    "flexible",
+    "queries"
+  ],
+  "author": "Fernando Papito",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^12.2.0"
   }
-  
+}
